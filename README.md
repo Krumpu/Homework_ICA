@@ -24,3 +24,7 @@ from other observations) were removed.
 - V: Average Wind Speed (WSavg, Km/h)
 - VM: Maximum Wind Speed (WSmax, Km/h)
 - VG: Unknown/Unused?
+
+Predictors dropped:
+- SLP: Only 5 values different from 0;
+- VG: No information about it; 
