@@ -27,4 +27,10 @@ from other observations) were removed.
 
 Predictors dropped:
 - SLP: Only 5 values different from 0;
-- VG: No information about it; 
+- VG: No information about it;
+---
+## Código
+Para rodar o código, basta clicar no arquivo ['HW_1_ICA.ipynb'](https://github.com/Krumpu/Homework_ICA/blob/main/HW_1_ICA.ipynb) e em seguida em 'Open in colab'. O código está dividido em tópicos com breves explicações das etapas e deve ser executado na ordem disposta.
+
+## Contribuições Individuais
+Giordano Bruno cuidou majoritariamente da escrita do texto, e teve participação na organização do código. Kaique Ferreira e Marco Penaforte escreveram o código quase em sua totalidade, divindindo tarefas entre si.
